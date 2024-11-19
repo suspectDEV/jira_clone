@@ -44,3 +44,7 @@ yarn-error.log*
 # files to ignore
 /prisma/un-seed.ts
 config.load
+
+# lock files
+yarn.lock
+package-lock.json
